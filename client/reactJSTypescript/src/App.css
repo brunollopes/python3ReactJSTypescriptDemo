@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 15px;
+    user-select: none;
+  }
+  
+  .footer {
+    padding: 60px 0 30px;
+  }
+  
+  .footer a {
+    color: #555555;
+    text-decoration: underline;
+  }
+  
+  .footer a:hover {
+    color: #000000;
+  }
