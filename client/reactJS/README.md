@@ -1,5 +1,6 @@
 # how to run it
-> npm start
+- npm install
+- npm start
 
 # how to access it
-> http://localhost:3000/
+- http://localhost:3000/
